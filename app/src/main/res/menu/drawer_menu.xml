@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="logout">
+        <menu>
+            <item android:id="@+id/close"
+                android:title="Cerrar sesion"/>
+        </menu>
+    </item>
+</menu>
